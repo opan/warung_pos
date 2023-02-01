@@ -25,6 +25,7 @@ end
 
 group :development do
   gem "guard-puma", "~> 0.8"
+  gem "rubocop"
 end
 
 group :test do
